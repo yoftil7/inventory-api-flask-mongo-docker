@@ -1,0 +1,4 @@
+graft inventory/conf
+global-exclude *.pyc
+
+

@@ -1,0 +1,4 @@
+Metadata-Version: 2.1
+Name: inventory
+Version: 1.0
+Requires-Dist: flask

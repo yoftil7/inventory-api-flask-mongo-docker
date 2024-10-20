@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+inventory/__init__.py
+inventory/db.py
+inventory/record.py
+inventory.egg-info/PKG-INFO
+inventory.egg-info/SOURCES.txt
+inventory.egg-info/dependency_links.txt
+inventory.egg-info/not-zip-safe
+inventory.egg-info/requires.txt
+inventory.egg-info/top_level.txt

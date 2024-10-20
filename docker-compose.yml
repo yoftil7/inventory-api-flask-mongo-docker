@@ -1,0 +1,18 @@
+services:
+    web:
+        build: .
+        ports: 
+            - "5000:5000"
+        environment:
+            FLASK_ENV: development
+        depends_on:
+            - mongo
+        volumes:
+            - ./inventorydb:/data/db
+
+    mongo:
+        image: mongo:latest
+        ports:
+            - "27017:27017"
+        volumes:
+            - ./inventorydb:/data/db
