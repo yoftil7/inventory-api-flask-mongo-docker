@@ -74,7 +74,3 @@ Once the app is running, you can use tools like **Postman** or **cURL** to inter
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-This updated **README** provides a more comprehensive overview of your inventory app, including its structure, setup instructions, and relevant files. Let me know if you'd like to refine it further!
